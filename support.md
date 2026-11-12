@@ -4,7 +4,6 @@ title: Support
 permalink: /support.html
 ---
 
-# LONGHEALTH Support
 
 Need help with LONGHEALTH? We're happy to help.
 

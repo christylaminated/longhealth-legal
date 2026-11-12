@@ -4,7 +4,6 @@ title: Terms of Use
 permalink: /terms.html
 ---
 
-# Terms of Use
 
 **Last updated: November 12, 2026**
 

@@ -4,7 +4,6 @@ title: LONGHEALTH
 permalink: /
 ---
 
-# LONGHEALTH
 
 A personalized beauty and wellness routine for iPhone.
 

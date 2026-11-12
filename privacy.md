@@ -4,7 +4,6 @@ title: Privacy Policy
 permalink: /privacy.html
 ---
 
-# Privacy Policy
 
 **Last updated: November 12, 2026**
 
